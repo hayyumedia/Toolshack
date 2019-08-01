@@ -1,0 +1,74 @@
+##
+## A cow wadvertising the World Wide Web, from lim@csua.berkeley.edu
+##
+$the_cow = <<EOC;
+
+
+                              .-:/++osyyhddmmmNNNNNNNNNNNmmddhyso+/:-.`
+                      .:+sydmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNdhs+/-`
+                 ./shNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmy+-
+              .+dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmy:
+            .sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/
+           :mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`
+          :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy
+         .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
+         yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.
+        -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs
+        sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`
+       `NMMMMMMMMMMMMNmddddddmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhhyyhhdmNMMMMMMMMMMMM+
+       /MMMMMMMMMmy+-..```````.-:+ydNMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+-.``      `.-/sdMMMMMMMMMh
+       hMMMMMMNy:...-----..`       `./ymMMMMMMMMMMMMMMMMMMMMNh+-`       `..-----.``:yNMMMMMMN
+       NMMMMMh:-odmNNm/----::-..       .+dMMMMMMMMMMMMMMMMmo.       ..:::----/mNNmho--yMMMMMM-
+      -MMMMMo/hNMMMMMMdyo/:.` .-//-`     `+NMMMMMMMMMMMMNo.      .:/-.` .-:+ydMMMMMMNd+oNMMMM/
+      +MMMMmdMMMMMMMMMMMMMMNdo-  ./o:`     -MMMMMMMMMMMM:     `-+:.  .+hmNMMMMMMMMMMMMMmmMMMMo
+      sMMMMMMMMMMMMMMMMMMMMMMMNh/`  -+/.   `NMMMMMMMMMMM-   ./o:` `:yNMMMMMMMMMMMMMMMMMMMMMMMy
+      hMMMMMMMMMMMMMMMMMMMMMMMMMMd+.  .+o++dMMMMMMMMMMMMm++ys-  `/hMMMMMMMMMMMMMMMMMMMMMMMMMMh
+      mMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.  .sNMMMMMMMMMMMMMMMh-  .+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMm
+      NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm-   -mMMMMMMMMMMMMMo` .omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+      MMMMMMMMMMMMNmhso+++++oyhmNMMMMMN-   .mMMMMMMMMMMMh `omMMMMMMNmyso+////+sydNMMMMMMMMMMMM
+      MMMMMMMMMNy:.            `-+hmMMMN-   :MMMMMMMMMMMmsmMMMMMNh+-             .:smMMMMMMMMM`
+     `MMMMMMMNs.                   `:sNM+    hMMMMMMMMMMMMMMMNy:`                   `oNMMMMMMM.
+     `MMMMmo/.                        .m+    /MMMMMMMMMMMMMMN-                        ./oymNMM.
+     .MMMMm`                     ````-sM+    .MMMMMMMMMMMMMMMh:``````````````......--:++//::/+`
+     .MMMMm` ``.:/++ooosssyyyyhhdddmNMMM/    .MMMMMMMMMMMMMMMMMNmmNNNNNMMMMMMMMMMMMMMMMMMMMMMN.
+     .MMMMyydNMMMMMMMMMMMMMMMMMMMMMMMMMM:    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM`
+      sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN     -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM`
+      `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy     -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:     :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy
+        `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMN      :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm`
+       .  sMMMMMMMMMMMMMMMMMMMMMMMMMMM+      /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`
+       dh` -hMMMMMMMMMMMMMMMMMMMMMMMh:       +MMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs.
+       :Mm.  -odMMMMMMMMMMNNmmdmMd/`         sMMMMMMMMMMMMs`-sNMMMMMMMMMMMMMMMMMMMMMMMd+`:h
+        yMd`    `...-...`.-:/+smm`    ./     mMMMMMMMMMMMMMNd+`hMMMMMhssyyhhdddhyys+:.  -Ny
+        `mMy  `s`   hmmNNNNMMMMMh    :NN    .MMMMMMMMMMMMMMMMM+`NMMMMNhso++//:.    ..  `dM-
+         -NMs  od`  .hMMMMMMMMMMM:  -MMm    +MMMMMMMMMMMMMMMMMN+MMMMMMMMMMMMMd.   /N/  yMh
+          /MMs  hd`  `+NMMMMMMMMMNs:sMMy    yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`   oMN` +MM-
+           +MMh``hd.   `omMMMMMMMMMMMMMm/   mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/   `yMM: /MMo
+            oMMd-`sm-    `-ohNMMMMMMMMMMM/  yMMMMMMMMMdshMMMMMMMMMMMMMMMmo`   `hMN: :NMh
+             oMMN/ /d+`     `.-+ydNMMMNd/`  `-+syyyso-` `/mMMMMMMMMMNds:`    .dMh. /NMd`
+              oMMMs``oh+.        `..--.`         `        `/yhdhys+-.`     `+Nm/` +NMm.
+               oMMMh. .sdy/.                   :dd/`         ``          .+dNs. `sMMd.
+                +NMMm-  -yNmho:.             .yNMMMd/                 ./ymMh:  `hMMh`
+                 /NMMN/   -yNMMmdyo/-.``    -dNNNNMMNh.         `.:+ydNMMMhd: -dMMy`
+                  :mMMNo    -smMMMMMNNmddddyo+////////:-:/+osyhdmNMMMMMMMMN/ +NMMo`
+                   .dMMMs`    .+dNMMMMMMMMMMMMMNNNNmmmNNMMMMMMMMMMMMMMMMMN:`sMMN+
+                    `hMMMh`    `/+shmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm--dMMm:
+                     `sMMMh`   -MMmdhsosyhddmmmmmmmmmNNMMMMMMMMMMMMMMMMd./NMMh.
+                       +NMMd`  -MMMMMMMNdhs+.`........:oNMMMMMMMMMMMMMs.sMMMs`
+                        :mMMd` :MMMMMMMMMMMMh`        -dMMMMMMMMMMMMN+-dMMN+
+                         .dMMh``NMMMMMMMMMMMMo       -NMMMMMMMMMMMMN/+NMMm-
+                          `yMMy`oMMMMMMMMMMMM+       oMMMMMMMMMMMMMyyMMMh.
+                            +NMhoMMMMMMMMMMMh`       :MMMMMMMMMMMMMMMMNo
+                             .yMMMMMMMMMMMMm`         sMMMMMMMMMMMMMMm:
+                               /NMMMMMMMMMMo     -.   -MMMMMMMMMMMMMh.
+                                .dMMMMMMMMMs     ..   -MMMMMMMMMMMNo`
+                                 `sMMMMMMMMm          /MMMMMMMMMMd:
+                                   /mMMMMMMM:         hMMMMMMMMNo`
+                                    .yMMMMMMd        -MMMMMMMNy.
+                                      -yNMMMM-       hMMMMMNs.
+                                        .+ymN+       NMNds:
+                                                     -.
+
+
+EOC
