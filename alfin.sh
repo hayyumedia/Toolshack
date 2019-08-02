@@ -55,7 +55,7 @@ echo $cy "[12]"$pu" EXIT"
 echo "<><><><><><><><><><><><><><><><><><><><><><><><><>"
 echo
 echo
-read -p"< °Mr_HackPro° >" pil;
+read -p"(°masukan nomor nya°) >" pil;
 
 if [ $pil = 1 ]
 then
