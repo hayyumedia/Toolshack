@@ -1,4 +1,4 @@
-n#!/bin/bash
+#!/bin/bash
 #version 1.0
 
 clear
