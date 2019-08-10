@@ -1,6 +1,6 @@
 #!/bin/bash
 #version 1.0
-
+#jangan di bajak kampret
 clear
 # Variables
 b='\033[1m'
